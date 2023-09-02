@@ -1,0 +1,4 @@
+•	“Introduction to IDE and basic programing constructs” string
+•	3x108 long integer
+•	300000000 long integer
+•	7.0000000000005 double

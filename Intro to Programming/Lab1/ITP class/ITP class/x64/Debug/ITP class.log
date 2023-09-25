@@ -1,0 +1,9 @@
+﻿  q2.cpp
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(7,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(7,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(7,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(8,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(8,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(8,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\ITP class\q2.cpp(8,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ITP class.vcxproj -> E:\Semester I\Programming\semester111\Intro to Programming\Lab1\ITP class\x64\Debug\ITP class.exe

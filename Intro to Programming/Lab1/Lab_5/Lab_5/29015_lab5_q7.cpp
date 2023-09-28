@@ -2,17 +2,17 @@
 using namespace std;
 int main()
 {
-	int digiroot, total,number;
-	for (int i = 0; i < 6; i++)
+	int number,count=0,sum=0;
+	cout << "enter number:";
+	cin >> number;
+	while(number>0)
 	{
-		for(int j = 0; j <6;i++)
-		cin >> number;
-		
-
-
+		sum = sum + number % 10;
+		number= number / 10;
+			count++;
 	}
-	
-
+	cout << "the number of digits are:" << count<<"\n";
+	cout << "the digital root is:" << sum;
 
 
 

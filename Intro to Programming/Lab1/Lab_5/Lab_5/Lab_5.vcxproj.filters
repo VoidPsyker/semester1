@@ -36,5 +36,11 @@
     <ClCompile Include="29015_lab5_q7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="29015_lab5_q8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29015_lab5_q9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

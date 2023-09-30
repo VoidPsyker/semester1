@@ -9,7 +9,6 @@ int main()
 		{
 			cout<<"enter values for i and j\n";
 			cin>>array[i][j];
-
 			
 		}
 		

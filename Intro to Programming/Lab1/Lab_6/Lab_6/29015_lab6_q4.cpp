@@ -2,9 +2,8 @@
 using namespace std;
 int main()
 {
-	float arr[2][5],sum[2],avg[2],n;
+	float arr[2][5],sum[2],avg[2];
 	cout << "enter value of n:\n";
-	cin >> n;
 	for (int i = 0; i < 2; i++) 
 	{
 		for (int j = 0; j < 5; j++) 
@@ -25,7 +24,7 @@ int main()
 	{
 		avg[i]=sum[i]/5 ;
 	}
-	float cov =((sum[0] - avg[0]) * (sum[1] - avg[1]))*(1/n);
+	float cov =((sum[0] - avg[0]) * (sum[1] - avg[1]))*(1/sum[0]+sum[1]);
 	cout << "covariance is:" << cov;
 
 

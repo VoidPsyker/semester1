@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int arr[13],longest=0,consecutive=0,number=0;
+	cout<<"enter numbers";
+	for (int i=0; i<13; i++)
+	{
+		cin>>arr[i];
+	}
+	
+	for(int i=0;i<13;i++)
+	{
+		if (arr[i]==arr[i-1])
+		{
+			consecutive++
+			if(consecutive>longest){
+				longest=consecutive;
+				number=arr[i];
+			}
+		}
+		else{
+			consecutive=1;
+		}
+		
+	}
+	cout<<"longest is"<<longest<<"consecutive is "<<number;
+}

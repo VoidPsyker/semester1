@@ -2,13 +2,13 @@
 using namespace std;
 int main()
 {
-	int magicsquare[3][3]/*{{2,7,6},{9,5,1},{4,3,8}}*/,row1,row2,row3,col1,col2,col3,diag;
-	cout<<"enter 3x3 array";
+	int magicsquare[3][3]={{2,7,6},{9,5,1},{4,3,8}},row1,row2,row3,col1,col2,col3,diag;
+	
 	for(int i=0; i<3; i++)
 	{
 		for(int j=0; j<3;j++)
 		{
-			cin>>magicsquare[i][j];
+			
 			if(i=0)
 			{
 				row1+=magicsquare[i][j];
@@ -45,9 +45,14 @@ int main()
 		diag+=magicsquare[i][j];
 		
 	}
-}
+
 	if(row1==row2 && row2==row3 && col1==col2 == col2==col3&& col3==diag)
 	{
 		cout<<"it is a magic square";	
 	}
+	else{
+		cout<<"it is not a magic square";
+	}
+}
+
 }

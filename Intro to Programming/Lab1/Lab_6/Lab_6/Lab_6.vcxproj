@@ -127,9 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="29015_lab6_q1.cpp" />
     <ClCompile Include="29015_lab6_q2.cpp" />
     <ClCompile Include="29015_lab6_q3.cpp" />
     <ClCompile Include="29015_lab6_q4.cpp" />
+    <ClCompile Include="29015_lab6_q5.cpp" />
+    <ClCompile Include="29015_lab6_q7.cpp" />
+    <ClCompile Include="29015_lab6_q8.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,24 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int square (int x);
+int cube (int y);
+
+int main()
+{
+	int num1,num2;
+	cout<<"enter 1st number";
+	cin>>num1;
+	cout<<"enter 2nd number";
+	cin>>num2;
+	cout<<square(num1)+cube(num1);
+	
+}
+int square(int x){
+
+return x*x;
+}
+int square(int y){
+
+return y*y;
+}

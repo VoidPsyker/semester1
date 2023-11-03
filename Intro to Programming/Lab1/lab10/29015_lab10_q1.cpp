@@ -9,8 +9,8 @@ int main()
 		cout<<"enter last name";
 		cin>>lastname;
 		firstname+=lastname;
-		for(int i=0;firstname.length();i>=0;i--)
+		for(int i=firstname.length();i>0;i--)
 		{
-			cout<<firstname;
+			cout<<firstname[i];
 		}
 }

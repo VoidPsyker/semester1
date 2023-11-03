@@ -1,0 +1,3 @@
+﻿  29015_lab10_q5.cpp
+E:\Semester I\Programming\semester1\Intro to Programming\Lab1\lab10\29015_lab10_q5.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab10.vcxproj -> E:\Semester I\Programming\semester1\Intro to Programming\Lab1\lab10\x64\Debug\lab10.exe

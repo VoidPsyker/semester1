@@ -7,17 +7,16 @@ int abd(int array[],int size)
 	int num1,num2;	
 	for(int i=0;i<size;i++)
 	{
-		for(int j=0;j=size;j--)
+		for(int j=size;j>0;j--)
 		{
 			if(array[i]==array[j])
-			{
 				if(j-i+1>max)
 				{
-					max = (j-i)+1;	
+					max = (j-i+1);	
 				}
 			}
 		}
-	}
+	
 	return max;
 }
 

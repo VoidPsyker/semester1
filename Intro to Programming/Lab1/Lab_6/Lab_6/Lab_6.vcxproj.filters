@@ -24,5 +24,17 @@
     <ClCompile Include="29015_lab6_q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="29015_lab6_q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29015_lab6_q5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29015_lab6_q7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29015_lab6_q8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

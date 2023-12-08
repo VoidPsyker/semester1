@@ -27,5 +27,14 @@
     <ClCompile Include="lab8q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lab9q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9q2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9q3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

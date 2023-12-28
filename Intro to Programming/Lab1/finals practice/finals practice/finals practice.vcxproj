@@ -127,15 +127,43 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dynamic_2d_array_q4.cpp" />
+    <ClCompile Include="dynamic_array_q1.cpp" />
+    <ClCompile Include="dynamic_array_q2.cpp" />
+    <ClCompile Include="dynamic_array_q3.cpp" />
+    <ClCompile Include="for_loop_q1.cpp" />
+    <ClCompile Include="for_loop_q2.cpp" />
+    <ClCompile Include="for_loop_q3.cpp" />
+    <ClCompile Include="for_loop_q4.cpp" />
+    <ClCompile Include="for_loop_q5.cpp" />
+    <ClCompile Include="for_loop_q6.cpp" />
+    <ClCompile Include="for_loop_q7.cpp" />
+    <ClCompile Include="for_loop_q8.cpp" />
+    <ClCompile Include="for_loop_q9.cpp" />
+    <ClCompile Include="if_else_q1.cpp" />
+    <ClCompile Include="if_else_q2.cpp" />
+    <ClCompile Include="if_else_q3.cpp" />
+    <ClCompile Include="if_else_q4.cpp" />
     <ClCompile Include="Practice_q1_DATranspose.cpp" />
     <ClCompile Include="practice_q2_declare.cpp" />
     <ClCompile Include="practice_q3.cpp" />
     <ClCompile Include="practice_q4_sum.cpp" />
+    <ClCompile Include="recursion_q6.cpp" />
     <ClCompile Include="recursion_q1.cpp" />
     <ClCompile Include="recursion_q2.cpp" />
     <ClCompile Include="recursion_q3.cpp" />
     <ClCompile Include="recursion_q4.cpp" />
     <ClCompile Include="recursion_q5.cpp" />
+    <ClCompile Include="recursion_q7.cpp" />
+    <ClCompile Include="structures_q1.cpp" />
+    <ClCompile Include="structures_q2.cpp" />
+    <ClCompile Include="structures_q3.cpp" />
+    <ClCompile Include="structures_q4.cpp" />
+    <ClCompile Include="structures_q4_part2.cpp" />
+    <ClCompile Include="structures_q6.cpp" />
+    <ClCompile Include="structures_q6_part2.cpp" />
+    <ClCompile Include="structures_q7.cpp" />
+    <ClCompile Include="struxtures_q5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

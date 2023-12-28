@@ -1,4 +1,2 @@
-﻿  recursion_q5.cpp
-E:\Semester I\Programming\semester1\Intro to Programming\Lab1\finals practice\finals practice\recursion_q5.cpp(16,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-E:\Semester I\Programming\semester1\Intro to Programming\Lab1\finals practice\finals practice\recursion_q5.cpp(16,21): error C2451: a conditional expression of type 'void' is not valid
-E:\Semester I\Programming\semester1\Intro to Programming\Lab1\finals practice\finals practice\recursion_q5.cpp(16,21): message : Expressions of type void cannot be converted to other types
+﻿  dynamic_array_q3.cpp
+  finals practice.vcxproj -> E:\Semester I\Programming\semester1\Intro to Programming\Lab1\finals practice\x64\Debug\finals practice.exe
